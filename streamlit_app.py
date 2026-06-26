@@ -1,4 +1,4 @@
-# app.py
+# streamlit_app.py
 import streamlit as st
 import altair as alt
 from vega_datasets import data
